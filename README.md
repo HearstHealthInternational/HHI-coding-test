@@ -1,5 +1,5 @@
 # Hearst Health International coding test
-Use the dictionary at 
+Use the dictionary at [https://github.com/MapOfMedicine/HHI-coding-test/raw/master/wordlist.txt](https://github.com/MapOfMedicine/HHI-coding-test/raw/master/wordlist.txt).
 
 ----------
 
